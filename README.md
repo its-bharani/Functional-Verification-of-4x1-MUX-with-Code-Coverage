@@ -23,16 +23,22 @@ Additionally, code coverage analysis has been performed using QuestaSim to ensur
 
 ---
 
-## **RESULT**
+## **RESULT-TESTCASE 1**
 
 ![image](https://github.com/user-attachments/assets/08b0ee28-7414-4268-b24d-ee84a3d33a7b)
 
-### CODE COVERAGE REPORT
+### CODE COVERAGE REPORT-TESTCASE-1
 
 ![image](https://github.com/user-attachments/assets/070c8e2f-d0f7-4593-b1c8-0da9decaa88b)
 
+## **RESULT-TESTCASE 2
 
-![image](https://github.com/user-attachments/assets/b7017117-4b49-4252-b131-96d319e70c4d)
+![image](https://github.com/user-attachments/assets/cbc8635f-2c62-4484-8a2a-c1a44d0908af)
+
+### CODE COVERAGE REPORT-TESTCASE-2
+
+![image](https://github.com/user-attachments/assets/de62c4ca-5f86-4a54-b006-6f580fd3089d)
+
 
 ---
 
