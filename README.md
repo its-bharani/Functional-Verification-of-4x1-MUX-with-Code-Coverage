@@ -29,7 +29,7 @@ Additionally, code coverage analysis has been performed using QuestaSim to ensur
 
 ### CODE COVERAGE REPORT-TESTCASE-1
 
-![image](https://github.com/user-attachments/assets/070c8e2f-d0f7-4593-b1c8-0da9decaa88b)
+![image](https://github.com/user-attachments/assets/72cb9981-1b62-4b99-ab76-a011156e3723)
 
 ## **RESULT-TESTCASE 2
 
