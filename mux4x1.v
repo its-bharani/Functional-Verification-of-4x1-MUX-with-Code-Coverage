@@ -9,8 +9,6 @@ begin
                 2'b01: out<=din[1];
                 2'b10: out<=din[2];
                 2'b11: out<=din[3];
-                default: out<=1'bz;
-
         endcase
 end
 endmodule
